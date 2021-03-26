@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "953ec2bc730918ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c059d331a59994b9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f06f873bf862138f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aada676a6259841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "868a06ba5227bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a42b40097588d32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JVM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "99794d6faed4b7b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bc870016f930e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980742906147ea1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55eb8e72e7492822",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md"
+              }
+            }
+          },
+          {
+            "id": "5fa4964a2267451a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "语言/Java/1. 基础/Untitled.md",
+    "语言/Java/1. 基础/六大设计原则(SOLID).md",
+    "语言/Java/1. 基础/JAVA内存模型 JMM.md",
+    "AttachFolder/路线图/QQ图片20210325224731.png",
+    "AttachFolder/路线图/backend.png",
+    "语言/Java/并发/Synchronized与ReentrantLock.md",
+    "语言/Java/3. 框架/spring相关/SpringMVC流程.md",
+    "语言/Java/JVM/GC 垃圾回收机制.md",
+    "语言/Java/3. 框架/spring相关/Spring Bean 初始化.md",
+    "语言/Java/2. 常用类-容器/Java 容器都有哪些.md"
+  ]
+}

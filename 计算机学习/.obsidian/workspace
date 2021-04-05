@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c059d331a59994b9",
+        "id": "f4dd538451353668",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md",
-            "mode": "preview"
+            "file": "语言/Java/3. 框架/Redis/redis持久化.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JVM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md",
+                "file": "语言/Java/3. 框架/Redis/redis持久化.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言/Java/1. 基础/JAVA包装类型缓存池详解.md"
+                "file": "语言/Java/3. 框架/Redis/redis持久化.md"
               }
             }
           },
@@ -99,23 +99,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "语言/Java/1. 基础/Untitled.md",
-    "语言/Java/1. 基础/六大设计原则(SOLID).md",
-    "语言/Java/1. 基础/JAVA内存模型 JMM.md",
-    "AttachFolder/路线图/QQ图片20210325224731.png",
-    "AttachFolder/路线图/backend.png",
-    "语言/Java/并发/Synchronized与ReentrantLock.md",
-    "语言/Java/3. 框架/spring相关/SpringMVC流程.md",
-    "语言/Java/JVM/GC 垃圾回收机制.md",
-    "语言/Java/3. 框架/spring相关/Spring Bean 初始化.md",
-    "语言/Java/2. 常用类-容器/Java 容器都有哪些.md"
+    "语言/Java/3. 框架/Redis/redis持久化.md",
+    "语言/Java/Io/- 传统io NIO的RandomAccessFile 速度比较.md",
+    "语言/Java/3. 框架/Redis/redis数据类型及使用场景.md",
+    "语言/Java/3. 框架/Redis/0.redis诞生背景——数据存储的发展简史.md",
+    "语言/Java/3. 框架/Redis/时点.md",
+    "语言/Java/3. 框架/Redis/Redis分布式集群.md",
+    "语言/Java/3. 框架/Redis/Redis基础概念.md",
+    "AttachFolder/java/io/传统io写文件示意图.png",
+    "语言/Java/Io/多路复用.md",
+    "语言/Java/Io/io多路复用.md"
   ]
 }

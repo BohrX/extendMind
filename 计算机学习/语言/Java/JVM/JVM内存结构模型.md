@@ -1,6 +1,6 @@
 #面试 #JVM #JVM_内存结构
 
-原文 [# 深入理解JVM-内存模型（jmm）和GC](https://www.jianshu.com/p/76959115d486)
+原文 [# 深入理解JVM-内存模型 和GC](https://www.jianshu.com/p/76959115d486)
 
 相关： [[GC 垃圾回收机制]]
 

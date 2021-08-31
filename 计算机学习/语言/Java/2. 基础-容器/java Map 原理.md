@@ -1,5 +1,6 @@
 # java Map 原理
-JDK 1.6, JDK 1.7 HashMap 采用位桶 + 链表实现。
+#容器 
+JDK 1.6, JDK 1.7 HashMap 采用位桶(数组) + 链表实现。[[基础数据结构]]
 
 JDK 1.8 HashMap 采用位桶 + 链表 + 红黑树实现。（当链表长度超过阈值 “8” 时，将链表转换为红黑树）
 
@@ -60,6 +61,8 @@ capacity 是数组（bucket）的大小，loadFactor 是数组的最大填满比
 loadFactor 过大，容易导致访问时频繁发生碰撞，导致出现大量的链表访问，影响访问效率。
 loadFactor 过小，则会导致 HashMap 频繁扩容，空间浪费多。
 如果数据量较大，需要设置合理的 capacity 和 loadFactor 值。
+
+[hashMap(并发)扩容为什么会造成死循环?](https://blog.csdn.net/weixin_39605578/article/details/110666609)
 
 ### HashMap resize
 
